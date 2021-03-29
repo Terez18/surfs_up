@@ -10,7 +10,7 @@ The purpose of the analysis is to provide W. Avy with weather information in Oah
 ---
 
 ## Link to Complete Code
-![PyBer_Challenge.ipynb](PyBer_Challenge.ipynb)
+![SurfsUp_Challenge.ipynb](SurfsUp_Challenge.ipynb)
 
 ---
 
